@@ -12,11 +12,12 @@ header{
 	width: 100%;
 }
 .menu{
-	width:68%;
+	width:75%;
 	float:right;
 }
 .menu ul{
 	overflow: hidden;
+	float:right;
 }
 .menu ul li{
 	list-style:none;
