@@ -1,0 +1,50 @@
+/*header start*/
+header{
+	overflow: hidden;
+	width:98%;
+	margin:10px auto;
+}
+.logo{
+	width:20%;
+	float:left;
+}
+.logo img{
+	width: 100%;
+}
+.menu{
+	width:68%;
+	float:right;
+}
+.menu ul{
+	overflow: hidden;
+}
+.menu ul li{
+	list-style:none;
+	float:left;
+}
+.menu ul li a{
+	font-family:sans-serif;
+	font-size:18px;
+	color:#495669;
+	text-decoration: none;
+	text-transform:uppercase;
+	padding:0 30px;
+	display:inline-block;
+}
+.menu ul li a:hover{
+	color:#3677DF;
+}
+/*header end*/
+/*banner start*/
+.banner{
+	width:98%;
+	margin:0 auto;
+}
+.banner img{
+	width: 100%;
+}
+/*banner end*/
+/*service start*/
+/*service end*/
+/*footer start*/
+/*footer end*/
